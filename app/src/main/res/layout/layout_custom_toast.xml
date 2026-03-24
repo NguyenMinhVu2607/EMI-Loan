@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tvToast"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/_1sdp"
+    android:background="@drawable/bg_button_ads"
+     android:elevation="@dimen/_1sdp"
+    android:fontFamily="@font/poppins_medium"
+    android:gravity="center"
+    android:paddingHorizontal="@dimen/_10sdp"
+    android:paddingVertical="@dimen/_5sdp"
+    android:text="sohvepo"
+    android:textColor="@android:color/white"
+    android:textSize="@dimen/_12sdp" />
